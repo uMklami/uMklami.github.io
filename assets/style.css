@@ -98,20 +98,6 @@ p { margin: 0 0 14px; }
 .card p { color: var(--muted); font-size: .95rem; margin: 0; }
 .card .icon { font-size: 1.5rem; margin-bottom: 8px; display: block; }
 
-/* Programme */
-.programme {
-  background: linear-gradient(135deg, var(--accent-soft), var(--surface));
-  border: 1px solid var(--line); border-radius: 16px; padding: 28px; margin-top: 8px;
-}
-.programme h3 { font-size: 1.35rem; margin-bottom: 4px; }
-.programme .sub { color: var(--accent-2); font-weight: 600; font-size: .9rem; text-transform: uppercase; letter-spacing: .05em; margin-bottom: 12px; }
-.rq { list-style: none; padding: 0; margin: 18px 0 0; display: grid; gap: 10px; }
-.rq li { display: grid; grid-template-columns: 44px 1fr; gap: 10px; align-items: start; }
-.rq .n {
-  width: 36px; height: 36px; border-radius: 10px; background: var(--accent); color: var(--bg);
-  display: grid; place-items: center; font-weight: 700; font-size: .85rem;
-}
-
 /* News */
 .news { list-style: none; padding: 0; margin: 0; }
 .news li { display: grid; grid-template-columns: 96px 1fr; gap: 16px; padding: 10px 0; border-bottom: 1px dashed var(--line); }
