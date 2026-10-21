@@ -57,7 +57,7 @@ h1, h2, h3 { font-family: "Source Serif 4", Georgia, serif; line-height: 1.25; m
 .hero .wrap { display: grid; grid-template-columns: 220px 1fr; gap: 44px; align-items: center; }
 .avatar {
   width: 220px; height: 220px; border-radius: 50%; object-fit: cover;
-  border: 4px solid var(--surface); box-shadow: var(--shadow);
+  object-position: center 25%; border: 4px solid var(--surface); box-shadow: var(--shadow);
 }
 .hero h1 { font-size: 2.6rem; letter-spacing: -.01em; }
 .hero .role { font-size: 1.15rem; color: var(--accent); margin: 6px 0 2px; font-weight: 500; }

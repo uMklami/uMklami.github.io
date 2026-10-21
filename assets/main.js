@@ -4,7 +4,7 @@ const PUBS = [
   {
     title: "WildDepth: A Multimodal Dataset for 3D Wildlife Perception and Depth Estimation",
     authors: "M. Aamir, N. Muramatsu, S. Shin, M. Wijers, J.-X. Zhong, X. Hou, A. Patel, A. Loveridge, A. Markham",
-    venue: "European Conference on Computer Vision (ECCV)", year: 2026, badge: "ECCV", featured: true, cats: ["wildlife", "vision"],
+    venue: "CVPR 2026; extended version at ECCV 2026", year: 2026, badge: "CVPR", featured: true, cats: ["wildlife", "vision"],
     links: { arXiv: "https://arxiv.org/abs/2603.16816", PDF: "https://arxiv.org/pdf/2603.16816" },
   },
   {
@@ -18,6 +18,21 @@ const PUBS = [
     authors: "M. Aamir, M. Wijers, A. Loveridge, A. Markham",
     venue: "Ecological Informatics, 92, 103520", year: 2025, badge: "Eco. Inf.", featured: true, cats: ["wildlife", "vision"],
     links: { Paper: "https://scholar.google.com/scholar?q=A+robust+metric+distance+and+height+estimation+pipeline+for+wildlife+camera+trap+imagery", Code: "https://github.com/Morphocam/Depth-Estimation" },
+  },
+  {
+    title: "A generalized three-tier hybrid model for classifying unseen IoT devices in smart home environments",
+    authors: "Q. Waseem, W. I. S. Wan Din, M. Aamir",
+    venue: "Scientific Reports", year: 2025, badge: "Sci. Rep.", cats: ["dl", "other"],
+  },
+  {
+    title: "An enhanced convolutional neural network based on L1 regularization for segmentation of coronary arteries in X-ray angiograms",
+    authors: "F. Wahid, Y. Ma, R. Sheikh, M. Aamir",
+    venue: "ICACS", year: 2024, badge: "ICACS", cats: ["dl", "vision"],
+  },
+  {
+    title: "Object-Oriented Programming and Data Analysis using Java (book)",
+    authors: "R. Ibrahim, N. A. Samudin, N. Senan, M. Aamir",
+    venue: "Penerbit UTHM", year: 2021, badge: "Book", cats: ["other"],
   },
   {
     title: "Digital Twinning remote laboratories for online practical learning",

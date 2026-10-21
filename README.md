@@ -18,7 +18,7 @@ Static site (HTML/CSS/JS, no build step) for GitHub Pages.
 - Text and sections: `index.html`
 - Publications list: the `PUBS` array in `assets/main.js`
 - Colours and fonts: `assets/style.css` (`:root` variables)
-- Photo: add `assets/profile.jpg` and change the `<img class="avatar">` src in `index.html`
-- CV: replace `MyCV-Fellowship.pdf` (or rename and update the CV link)
+- Photo: `assets/aamirv2.jpeg` (change the `<img class="avatar">` src in `index.html` to swap it)
+- CV: `assets/MyResume.pdf` (replace the file to update it)
 
 Preview locally: `python3 -m http.server` then open http://localhost:8000
